@@ -10,5 +10,4 @@ VideoLAN.VLC*
 Zoom.Zoom*
 Adobe.Acrobat*
 Foxit.FoxitReader*
-Zoom.Zoom*
 Zoom.ZoomRooms*
