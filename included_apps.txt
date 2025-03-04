@@ -26,3 +26,4 @@ WhatsApp.WhatsApp*
 WiresharkFoundation.Wireshark*
 Zoom.Zoom*
 Zoom.ZoomRooms*
+Adobe*
