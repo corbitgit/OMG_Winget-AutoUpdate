@@ -1,6 +1,7 @@
 Adobe.Acrobat*
 BelgianGovernment.Belgium-eIDmiddleware*
 BelgianGovernment.eIDViewer*
+Bitwarden.Bitwarden*
 Canva.Canva*
 FireDaemon.OpenSSL*
 Foxit.FoxitReader*
@@ -15,7 +16,6 @@ Mozilla.Thunderbird*
 Notepad++.Notepad++*
 ojdkbuild*
 Oracle*
-Oracle*
 PuTTY.PuTTY*
 Spotify.Spotify*
 TeamViewer.TeamViewer*
@@ -25,9 +25,6 @@ WhatsApp.WhatsApp*
 WiresharkFoundation.Wireshark*
 Zoom.Zoom*
 Zoom.ZoomRooms*
-Adobe*
-XPFD4T9N395QN6
-XPDLPKWG9SW2WD
-XPDP273C0XHQH2
-9NZVDKPMR9RD
-XP8BT8DW290MPQ
+7zip.7zip*
+9NZVDKPMR9RD*
+9P1J8S7CCWWT*
