@@ -115,3 +115,5 @@ JetBrains.ReSharper*
 JetBrains.dotUltimate*
 Microsoft.PerfView*
 MartiCliment.UniGetUI*
+9NKSQGP7F2NH*
+Ytmdesktop.Ytmdesktop*
