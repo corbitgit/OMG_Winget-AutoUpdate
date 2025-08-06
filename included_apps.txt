@@ -49,6 +49,7 @@ JetBrains.Rider*
 JetBrains.ReSharper*
 JetBrains.dotUltimate*
 Logitech.GHUB*
+Logitech.OptionsPlus*
 MartiCliment.UniGetUI*
 Microsoft.DotNet.AspNetCore.6*
 Microsoft.DotNet.AspNetCore.7*
