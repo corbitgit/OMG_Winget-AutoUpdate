@@ -126,3 +126,4 @@ ojdkbuild.openjdk.13.jdk*
 ojdkbuild.openjdk.14.jdk*
 ojdkbuild.openjdk.17.jdk*
 ojdkbuild.openjdk.17.jre*
+Trimble.SketchUpViewer
