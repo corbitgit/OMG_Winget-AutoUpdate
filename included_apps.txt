@@ -97,6 +97,7 @@ Oracle.JavaRuntimeEnvironment*
 OSGeo.QGIS*
 PuTTY.PuTTY*
 Piriform.Speccy*
+RARLab.WinRAR
 RevoUninstaller.RevoUninstaller
 Spotify.Spotify*
 Stremio.Stremio*
