@@ -34,7 +34,7 @@ BelgianGovernment.Belgium-eIDmiddleware*
 BelgianGovernment.eIDViewer*
 Bitwarden.Bitwarden*
 Canva.Canva*
-CartamundiDigital.Fundels
+CartamundiDigital.Fundels*
 Cisco.CiscoWebexMeetings*
 Cisco.Webex*
 Dell.CommandUpdate*
@@ -97,8 +97,8 @@ Oracle.JavaRuntimeEnvironment*
 OSGeo.QGIS*
 PuTTY.PuTTY*
 Piriform.Speccy*
-RARLab.WinRAR
-RevoUninstaller.RevoUninstaller
+RARLab.WinRAR*
+RevoUninstaller.RevoUninstaller*
 Spotify.Spotify*
 Stremio.Stremio*
 SublimeHQ.SublimeMerge*
@@ -127,4 +127,5 @@ ojdkbuild.openjdk.13.jdk*
 ojdkbuild.openjdk.14.jdk*
 ojdkbuild.openjdk.17.jdk*
 ojdkbuild.openjdk.17.jre*
-Trimble.SketchUpViewer
+Trimble.SketchUpViewer*
+OSGeo.QGIS*
