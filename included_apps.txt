@@ -30,6 +30,7 @@ Adobe.Acrobat.Reader.64-bit*
 Adobe.AdobeConnect*
 Adobe.CreativeCloud*
 Autodesk.AutodeskAccess*
+Apple.iTunes*
 BelgianGovernment.Belgium-eIDmiddleware*
 BelgianGovernment.eIDViewer*
 Bitwarden.Bitwarden*
